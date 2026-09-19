@@ -40,6 +40,5 @@ Desenvolvo produtos reais que vão além do código local. Aqui estão os princi
 * **LinkedIn:** https://www.linkedin.com/in/anderson-mateus-064a95263/
 * **E-mail:** a.mateussouza04@gmail.com
 * **Lattes:** http://lattes.cnpq.br/2049896589587222
-* **Contato**: +55 84 99864-3688
 
 ⭐ *Transformando necessidades de negócio e pesquisa em código funcional.*
