@@ -12,7 +12,7 @@ Tenho forte atuação na criação de sistemas voltados para o setor financeiro,
 * **Backend & Arquitetura:** Node.js, Spring Boot, Padrão MVC, Integração de APIs RESTful
 * **Bancos de Dados:** PostgreSQL (Supabase), Firebase
 * **IA & Automação:** Engenharia de Prompt, Integração de LLMs (Gemini, DeepSeek, ChatGPT), Google Apps Script
-* **Outros:** Git/GitHub, FlutterFlow, Power BI, IoT (ESP32)
+* **Outros:** Git/GitHub, FlutterFlow, Power BI.
 
 ---
 
@@ -37,7 +37,7 @@ Desenvolvo produtos reais que vão além do código local. Aqui estão os princi
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** https://www.linkedin.com/in/anderson-mateus-064a95263/
+* **LinkedIn:** https://www.linkedin.com/in/mateus-zyn/
 * **E-mail:** a.mateussouza04@gmail.com
 * **Lattes:** http://lattes.cnpq.br/2049896589587222
 
